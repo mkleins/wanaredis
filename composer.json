@@ -1,0 +1,22 @@
+{
+    "name": "mkleins/wanaredis",
+    "description": "Simple PHP client for Redis 3.x with cluster failover",
+    "type": "library",
+    "homepage": "https://github.com/mkleins/wanaredis",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel KLEIN",
+            "email": "manuklein@free.fr",
+        }
+    ],
+    "keywords": ["redis","wanaredis"],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wanaredis\\": "src"
+        }
+    }
+}
