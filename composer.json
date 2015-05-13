@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Manuel KLEIN",
-            "email": "manuklein@free.fr",
+            "email": "manuklein@free.fr"
         }
     ],
     "keywords": ["redis","wanaredis"],
